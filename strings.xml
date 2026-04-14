@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Image Studio</string>
+    
+    <!-- Splash -->
+    <string name="splash_title">AI Image Studio</string>
+    <string name="splash_subtitle">Create stunning AI art</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Transform Words into Art</string>
+    <string name="onboarding_desc_1">Describe your imagination and watch AI bring it to life in seconds</string>
+    <string name="onboarding_title_2">Multiple Art Styles</string>
+    <string name="onboarding_desc_2">Choose from 11+ unique styles including anime, realistic, oil painting and more</string>
+    <string name="onboarding_title_3">High Quality Output</string>
+    <string name="onboarding_desc_3">Get HD and 4K quality images perfect for any use case</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Home Screen -->
+    <string name="enter_prompt">Describe the image you want to create...</string>
+    <string name="select_style">Select Style</string>
+    <string name="select_ratio">Aspect Ratio</string>
+    <string name="generate">Generate Image</string>
+    <string name="enhance_prompt">Enhance Prompt</string>
+    <string name="recent_prompts">Recent Prompts</string>
+    
+    <!-- Loading -->
+    <string name="generating">Generating your masterpiece...</string>
+    <string name="ai_is_working">AI is working its magic</string>
+    <string name="please_wait">Please wait a moment</string>
+    
+    <!-- Result Screen -->
+    <string name="your_creation">Your Creation</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="regenerate">Regenerate</string>
+    <string name="try_again">Try Again</string>
+    <string name="image_saved">Image saved to gallery</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">No internet connection. Please check your network.</string>
+    <string name="error_generation">Failed to generate image. Please try again.</string>
+    <string name="error_save">Failed to save image. Please grant storage permission.</string>
+    <string name="error_prompt_empty">Please enter a prompt</string>
+    
+    <!-- Permissions -->
+    <string name="permission_storage_title">Storage Permission Required</string>
+    <string name="permission_storage_desc">We need storage permission to save your beautiful AI-generated images to your device.</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
